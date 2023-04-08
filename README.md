@@ -1,2 +1,2 @@
 # Description
-example
+example java schedule for console
